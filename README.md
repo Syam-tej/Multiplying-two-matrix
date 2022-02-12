@@ -23,9 +23,9 @@ array_1=np.array(l1)
 array_2=np.array(l2)
 product=array_1*array_2
 print("Product of two arrays is:",product)
-~~
+~~~
 
 ## OUTPUT:
-
+![git](mul1.png)
 ## RESULT:
 
